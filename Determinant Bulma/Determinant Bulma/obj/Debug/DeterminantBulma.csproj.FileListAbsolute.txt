@@ -1,0 +1,14 @@
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\Determinant Bulma\bin\Debug\Determinant Bulma.exe.config
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\Determinant Bulma\bin\Debug\Determinant Bulma.exe
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\Determinant Bulma\bin\Debug\Determinant Bulma.pdb
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\Determinant Bulma\obj\Debug\DeterminantBulma.csproj.AssemblyReference.cache
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\Determinant Bulma\obj\Debug\DeterminantBulma.csproj.CoreCompileInputs.cache
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\Determinant Bulma\obj\Debug\Determinant Bulma.exe
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\Determinant Bulma\obj\Debug\Determinant Bulma.pdb
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\bin\Debug\Determinant Bulma.exe.config
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\bin\Debug\Determinant Bulma.exe
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\bin\Debug\Determinant Bulma.pdb
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\obj\Debug\DeterminantBulma.csproj.AssemblyReference.cache
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\obj\Debug\DeterminantBulma.csproj.CoreCompileInputs.cache
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\obj\Debug\Determinant Bulma.exe
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Determinant Bulma\Determinant Bulma\obj\Debug\Determinant Bulma.pdb
