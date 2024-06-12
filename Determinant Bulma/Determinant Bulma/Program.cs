@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+
 internal class Program
 {
     static void Main()
@@ -20,6 +21,7 @@ internal class Program
                     n = int.Parse(Console.ReadLine());
                     if (n < 2)
                         hatan = "n değeri en az 2 olmalıdır!";
+
                 }
                 catch (Exception hata)
                 {
@@ -53,17 +55,18 @@ internal class Program
             {
                 for (int j = 1; j <= n; j++)
                 {
-                    Console.Write(firstMatris[i - 1, j - 1] + " ");
+                    Console.Write(firstMatris[i - 1, j - 1] + "  ");
                 }
                 Console.WriteLine("\n");
             }
-            Console.WriteLine("-------------------------------------------------\nMatrisiniz doğru mu? (Doğruysa ---> 1 Yanlışsa ---> 2 Çıkış ---> 'Diğer Tuşlar')");
+            Console.WriteLine("-------------------------------------------------\nMatrisiniz doğru mu? (Doğruysa ---> 1  Yanlışsa ---> 2  Çıkış ---> 'Diğer Tuşlar')");
             string answer = Console.ReadLine();
             if (answer == "1")
             {
                 Console.WriteLine("{0}x{0} boyutundaki kare matrisinizin determinantı = {1}", n, matrisConvertor(firstMatris, n));
                 Console.Write("\nDevam etmek için klavyeden herhangi bir tuşa basınız!");
                 Console.ReadKey();
+
             }
             else if (answer == "2")
             {
@@ -77,7 +80,9 @@ internal class Program
                 break;
             }
         }
+
     }
+
     static double matrisConvertor(double[,] firstMatris, int boyut)
     {
         double determinant = 0;
@@ -123,10 +128,12 @@ internal class Program
             return ikiBoyutu(firstMatris);
         }
     }
+
     static double matrisReturn(double[,] inMatris, double katsayi)
     {
         return katsayi * (inMatris[0, 0] * inMatris[1, 1] - inMatris[0, 1] * inMatris[1, 0]);
     }
+
     static double ikiBoyutu(double[,] inMatris)
     {
         return (inMatris[0, 0] * inMatris[1, 1] - inMatris[0, 1] * inMatris[1, 0]);
